@@ -79,3 +79,4 @@ var Vitalik = new User('Vitalik', 28)
 User.prototype.skill = function () {
     console.log('My skill this React')
 }
+var Pavel = new User('Pavel', 25)
